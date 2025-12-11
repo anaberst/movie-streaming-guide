@@ -1,4 +1,4 @@
-# :movie_camera: CS161 Streaming Guide
+# :movie_camera: Movie Streaming Guide
 Final project for `CS161: Introduction to Computer Science I` at Oregon State University. It has been approved for public sharing.
 
 This project simulates a movie streaming guide that allows users to:
